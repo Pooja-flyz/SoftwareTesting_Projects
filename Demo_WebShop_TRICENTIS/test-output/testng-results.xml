@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="40" passed="40" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-16T15:44:49 IST" name="Demo Web Shop Suite" finished-at="2026-09-16T15:46:17 IST" duration-ms="87821">
+    <groups>
+    </groups>
+    <test started-at="2026-09-16T15:44:49 IST" name="Demo Web Shop Tests" finished-at="2026-09-16T15:46:17 IST" duration-ms="87821">
+      <class name="com.tricentiswebshop.tests.Tricentis_CheckoutTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:03 IST" name="pageSetup" finished-at="2026-09-16T15:46:03 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyCheckoutPageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyCheckoutPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:03 IST" name="verifyCheckoutPageTest" finished-at="2026-09-16T15:46:06 IST" duration-ms="2803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPageTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="browserclose" finished-at="2026-09-16T15:46:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCheckoutPageTest status=SUCCESS method=Tricentis_CheckoutTest.verifyCheckoutPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="pageSetup" finished-at="2026-09-16T15:46:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyExistingBillingAddressTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyExistingBillingAddressTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="verifyExistingBillingAddressTest" finished-at="2026-09-16T15:46:06 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingBillingAddressTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="browserclose" finished-at="2026-09-16T15:46:06 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyExistingBillingAddressTest status=SUCCESS method=Tricentis_CheckoutTest.verifyExistingBillingAddressTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="pageSetup" finished-at="2026-09-16T15:46:06 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyShippingAddressMethodTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyShippingAddressMethodTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:06 IST" name="verifyShippingAddressMethodTest" finished-at="2026-09-16T15:46:07 IST" duration-ms="1464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShippingAddressMethodTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:07 IST" name="browserclose" finished-at="2026-09-16T15:46:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyShippingAddressMethodTest status=SUCCESS method=Tricentis_CheckoutTest.verifyShippingAddressMethodTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:07 IST" name="pageSetup" finished-at="2026-09-16T15:46:07 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyfixedShippingAddressTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyfixedShippingAddressTest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:07 IST" name="verifyfixedShippingAddressTest" finished-at="2026-09-16T15:46:12 IST" duration-ms="5009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfixedShippingAddressTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:12 IST" name="browserclose" finished-at="2026-09-16T15:46:12 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyfixedShippingAddressTest status=SUCCESS method=Tricentis_CheckoutTest.verifyfixedShippingAddressTest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:12 IST" name="pageSetup" finished-at="2026-09-16T15:46:12 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyConfirmOrderTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyConfirmOrderTest()[pri:8, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:12 IST" name="verifyConfirmOrderTest" finished-at="2026-09-16T15:46:14 IST" duration-ms="1772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConfirmOrderTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:14 IST" name="browserclose" finished-at="2026-09-16T15:46:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConfirmOrderTest status=SUCCESS method=Tricentis_CheckoutTest.verifyConfirmOrderTest()[pri:8, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:14 IST" name="pageSetup" finished-at="2026-09-16T15:46:14 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CheckoutTest.verifyOrderCompletedTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyOrderCompletedTest()[pri:9, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:14 IST" name="verifyOrderCompletedTest" finished-at="2026-09-16T15:46:16 IST" duration-ms="1505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderCompletedTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab]" started-at="2026-09-16T15:46:16 IST" name="browserclose" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOrderCompletedTest status=SUCCESS method=Tricentis_CheckoutTest.verifyOrderCompletedTest()[pri:9, instance:com.tricentiswebshop.tests.Tricentis_CheckoutTest@63070bab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_CheckoutTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_ProductDetailsTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:37 IST" name="pageSetup" finished-at="2026-09-16T15:45:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductDetailsTest.verifyProductDetailsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyProductDetailsTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:37 IST" name="verifyProductDetailsTest" finished-at="2026-09-16T15:45:40 IST" duration-ms="2757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetailsTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:40 IST" name="browserclose" finished-at="2026-09-16T15:45:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductDetailsTest status=SUCCESS method=Tricentis_ProductDetailsTest.verifyProductDetailsTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:40 IST" name="pageSetup" finished-at="2026-09-16T15:45:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductDetailsTest.addProductToCartTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="addProductToCartTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:40 IST" name="addProductToCartTest" finished-at="2026-09-16T15:45:49 IST" duration-ms="8726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCartTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59]" started-at="2026-09-16T15:45:49 IST" name="browserclose" finished-at="2026-09-16T15:45:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addProductToCartTest status=SUCCESS method=Tricentis_ProductDetailsTest.addProductToCartTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_ProductDetailsTest@6f45df59] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_ProductDetailsTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_OrderCompletedTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="pageSetup" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_OrderCompletedTest.verifyOrderCompletedTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyOrderCompletedTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="verifyOrderCompletedTest" finished-at="2026-09-16T15:46:16 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderCompletedTest -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="pageSetup" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_OrderCompletedTest.verifyOrderNumber()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="browserclose" finished-at="2026-09-16T15:46:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOrderCompletedTest status=SUCCESS method=Tricentis_OrderCompletedTest.verifyOrderCompletedTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method signature="verifyOrderNumber()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="verifyOrderNumber" finished-at="2026-09-16T15:46:16 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderNumber -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="browserclose" finished-at="2026-09-16T15:46:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOrderNumber status=SUCCESS method=Tricentis_OrderCompletedTest.verifyOrderNumber()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="pageSetup" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_OrderCompletedTest.verifyOrderDetailLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyOrderDetailLink()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="verifyOrderDetailLink" finished-at="2026-09-16T15:46:16 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderDetailLink -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="browserclose" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOrderDetailLink status=SUCCESS method=Tricentis_OrderCompletedTest.verifyOrderDetailLink()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="pageSetup" finished-at="2026-09-16T15:46:16 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_OrderCompletedTest.continueHomepage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="continueHomepage()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="continueHomepage" finished-at="2026-09-16T15:46:16 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueHomepage -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="browserclose" finished-at="2026-09-16T15:46:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=continueHomepage status=SUCCESS method=Tricentis_OrderCompletedTest.continueHomepage()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="pageSetup" finished-at="2026-09-16T15:46:16 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_OrderCompletedTest.clickInvoice()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="clickInvoice()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:16 IST" name="clickInvoice" finished-at="2026-09-16T15:46:17 IST" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickInvoice -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7]" started-at="2026-09-16T15:46:17 IST" name="browserclose" finished-at="2026-09-16T15:46:17 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickInvoice status=SUCCESS method=Tricentis_OrderCompletedTest.clickInvoice()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_OrderCompletedTest@68e5eea7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_OrderCompletedTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_LoginTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_LoginTest@5c90e579]" started-at="2026-09-16T15:45:16 IST" name="pageSetup" finished-at="2026-09-16T15:45:16 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_LoginTest.validLoginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="validLoginTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_LoginTest@5c90e579]" started-at="2026-09-16T15:45:16 IST" name="validLoginTest" finished-at="2026-09-16T15:45:17 IST" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_LoginTest@5c90e579]" started-at="2026-09-16T15:45:17 IST" name="browserclose" finished-at="2026-09-16T15:45:17 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLoginTest status=SUCCESS method=Tricentis_LoginTest.validLoginTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_LoginTest@5c90e579] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_LoginTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_ProductTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:17 IST" name="pageSetup" finished-at="2026-09-16T15:45:17 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.verifyBooksCategoryTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyBooksCategoryTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:17 IST" name="verifyBooksCategoryTest" finished-at="2026-09-16T15:45:19 IST" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBooksCategoryTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:19 IST" name="browserclose" finished-at="2026-09-16T15:45:19 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBooksCategoryTest status=SUCCESS method=Tricentis_ProductTest.verifyBooksCategoryTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:19 IST" name="pageSetup" finished-at="2026-09-16T15:45:19 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.verifyJewelryCategoryTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyJewelryCategoryTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:19 IST" name="verifyJewelryCategoryTest" finished-at="2026-09-16T15:45:20 IST" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJewelryCategoryTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:20 IST" name="browserclose" finished-at="2026-09-16T15:45:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyJewelryCategoryTest status=SUCCESS method=Tricentis_ProductTest.verifyJewelryCategoryTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:20 IST" name="pageSetup" finished-at="2026-09-16T15:45:20 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.verifyProductListTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyProductListTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:20 IST" name="verifyProductListTest" finished-at="2026-09-16T15:45:21 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductListTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:21 IST" name="browserclose" finished-at="2026-09-16T15:45:21 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductListTest status=SUCCESS method=Tricentis_ProductTest.verifyProductListTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:21 IST" name="pageSetup" finished-at="2026-09-16T15:45:21 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.sortProductNameAToZTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="sortProductNameAToZTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:21 IST" name="sortProductNameAToZTest" finished-at="2026-09-16T15:45:22 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortProductNameAToZTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="browserclose" finished-at="2026-09-16T15:45:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortProductNameAToZTest status=SUCCESS method=Tricentis_ProductTest.sortProductNameAToZTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="pageSetup" finished-at="2026-09-16T15:45:22 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.sortProductNameZToATest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="sortProductNameZToATest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="sortProductNameZToATest" finished-at="2026-09-16T15:45:22 IST" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortProductNameZToATest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="browserclose" finished-at="2026-09-16T15:45:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortProductNameZToATest status=SUCCESS method=Tricentis_ProductTest.sortProductNameZToATest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="pageSetup" finished-at="2026-09-16T15:45:22 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.sortPriceLowToHighTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="sortPriceLowToHighTest()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:22 IST" name="sortPriceLowToHighTest" finished-at="2026-09-16T15:45:24 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPriceLowToHighTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:24 IST" name="browserclose" finished-at="2026-09-16T15:45:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortPriceLowToHighTest status=SUCCESS method=Tricentis_ProductTest.sortPriceLowToHighTest()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:24 IST" name="pageSetup" finished-at="2026-09-16T15:45:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.sortPriceHighToLowTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="sortPriceHighToLowTest()[pri:7, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:24 IST" name="sortPriceHighToLowTest" finished-at="2026-09-16T15:45:25 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPriceHighToLowTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:25 IST" name="browserclose" finished-at="2026-09-16T15:45:25 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortPriceHighToLowTest status=SUCCESS method=Tricentis_ProductTest.sortPriceHighToLowTest()[pri:7, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:25 IST" name="pageSetup" finished-at="2026-09-16T15:45:25 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.verifyDisplayPerPageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyDisplayPerPageTest()[pri:8, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:25 IST" name="verifyDisplayPerPageTest" finished-at="2026-09-16T15:45:27 IST" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDisplayPerPageTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:27 IST" name="browserclose" finished-at="2026-09-16T15:45:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyDisplayPerPageTest status=SUCCESS method=Tricentis_ProductTest.verifyDisplayPerPageTest()[pri:8, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:27 IST" name="pageSetup" finished-at="2026-09-16T15:45:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.searchProductTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="searchProductTest()[pri:9, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:27 IST" name="searchProductTest" finished-at="2026-09-16T15:45:31 IST" duration-ms="4503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:31 IST" name="browserclose" finished-at="2026-09-16T15:45:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchProductTest status=SUCCESS method=Tricentis_ProductTest.searchProductTest()[pri:9, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:31 IST" name="pageSetup" finished-at="2026-09-16T15:45:31 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.invalidSearchTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="invalidSearchTest()[pri:11, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:31 IST" name="invalidSearchTest" finished-at="2026-09-16T15:45:34 IST" duration-ms="2763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSearchTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:34 IST" name="browserclose" finished-at="2026-09-16T15:45:34 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidSearchTest status=SUCCESS method=Tricentis_ProductTest.invalidSearchTest()[pri:11, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:34 IST" name="pageSetup" finished-at="2026-09-16T15:45:34 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_ProductTest.verifyProductDetailsTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyProductDetailsTest()[pri:12, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:34 IST" name="verifyProductDetailsTest" finished-at="2026-09-16T15:45:37 IST" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetailsTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c]" started-at="2026-09-16T15:45:37 IST" name="browserclose" finished-at="2026-09-16T15:45:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductDetailsTest status=SUCCESS method=Tricentis_ProductTest.verifyProductDetailsTest()[pri:12, instance:com.tricentiswebshop.tests.Tricentis_ProductTest@58ea606c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_ProductTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_CartTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:49 IST" name="pageSetup" finished-at="2026-09-16T15:45:49 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.verifyCartPageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyCartPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:49 IST" name="verifyCartPageTest" finished-at="2026-09-16T15:45:51 IST" duration-ms="1810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartPageTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:51 IST" name="browserclose" finished-at="2026-09-16T15:45:51 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCartPageTest status=SUCCESS method=Tricentis_CartTest.verifyCartPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:51 IST" name="pageSetup" finished-at="2026-09-16T15:45:51 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.verifyAddedProductTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyAddedProductTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:51 IST" name="verifyAddedProductTest" finished-at="2026-09-16T15:45:52 IST" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddedProductTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:52 IST" name="browserclose" finished-at="2026-09-16T15:45:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddedProductTest status=SUCCESS method=Tricentis_CartTest.verifyAddedProductTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:52 IST" name="pageSetup" finished-at="2026-09-16T15:45:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.changeProductQuantityTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="changeProductQuantityTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:52 IST" name="changeProductQuantityTest" finished-at="2026-09-16T15:45:54 IST" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeProductQuantityTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:54 IST" name="browserclose" finished-at="2026-09-16T15:45:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=changeProductQuantityTest status=SUCCESS method=Tricentis_CartTest.changeProductQuantityTest()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:54 IST" name="pageSetup" finished-at="2026-09-16T15:45:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.verifyOrderTotalTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyOrderTotalTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:54 IST" name="verifyOrderTotalTest" finished-at="2026-09-16T15:45:55 IST" duration-ms="1211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderTotalTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:55 IST" name="browserclose" finished-at="2026-09-16T15:45:55 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyOrderTotalTest status=SUCCESS method=Tricentis_CartTest.verifyOrderTotalTest()[pri:4, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:55 IST" name="pageSetup" finished-at="2026-09-16T15:45:55 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.removeProductTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="removeProductTest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:55 IST" name="removeProductTest" finished-at="2026-09-16T15:45:59 IST" duration-ms="4247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProductTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:59 IST" name="browserclose" finished-at="2026-09-16T15:45:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=removeProductTest status=SUCCESS method=Tricentis_CartTest.removeProductTest()[pri:5, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:59 IST" name="pageSetup" finished-at="2026-09-16T15:45:59 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_CartTest.continueShoppingAndAddProductTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="continueShoppingAndAddProductTest()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:45:59 IST" name="continueShoppingAndAddProductTest" finished-at="2026-09-16T15:46:03 IST" duration-ms="3388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueShoppingAndAddProductTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3]" started-at="2026-09-16T15:46:03 IST" name="browserclose" finished-at="2026-09-16T15:46:03 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=continueShoppingAndAddProductTest status=SUCCESS method=Tricentis_CartTest.continueShoppingAndAddProductTest()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_CartTest@38e79ae3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_CartTest -->
+      <class name="com.tricentiswebshop.utilities.Tricentis_DataDriven">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:11 IST" name="pageSetup" finished-at="2026-09-16T15:45:11 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.utilities.Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:11 IST" name="loginTest" data-provider="invalidloginData" finished-at="2026-09-16T15:45:13 IST" duration-ms="2048" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123456@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:13 IST" name="browserclose" finished-at="2026-09-16T15:45:13 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:13 IST" name="pageSetup" finished-at="2026-09-16T15:45:13 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.utilities.Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:13 IST" name="loginTest" data-provider="invalidloginData" finished-at="2026-09-16T15:45:14 IST" duration-ms="1505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seliauto@gmailcom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23451]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:14 IST" name="browserclose" finished-at="2026-09-16T15:45:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:14 IST" name="pageSetup" finished-at="2026-09-16T15:45:14 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.utilities.Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:14 IST" name="loginTest" data-provider="invalidloginData" finished-at="2026-09-16T15:45:16 IST" duration-ms="1544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shaij!#1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[!@#$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef]" started-at="2026-09-16T15:45:16 IST" name="browserclose" finished-at="2026-09-16T15:45:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=Tricentis_DataDriven.loginTest(java.lang.String,java.lang.String)[pri:0, instance:com.tricentiswebshop.utilities.Tricentis_DataDriven@1dac5ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.utilities.Tricentis_DataDriven -->
+      <class name="com.tricentiswebshop.tests.Tricentis_HomeTest">
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="pageSetup" finished-at="2026-09-16T15:45:04 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_HomeTest.verifyHomePageHeading()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyHomePageHeading()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="verifyHomePageHeading" finished-at="2026-09-16T15:45:04 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeading -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="browserclose" finished-at="2026-09-16T15:45:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePageHeading status=SUCCESS method=Tricentis_HomeTest.verifyHomePageHeading()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="pageSetup" finished-at="2026-09-16T15:45:04 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_HomeTest.verifyHomePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="verifyHomePage()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="verifyHomePage" finished-at="2026-09-16T15:45:04 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="browserclose" finished-at="2026-09-16T15:45:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHomePage status=SUCCESS method=Tricentis_HomeTest.verifyHomePage()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="pageSetup" finished-at="2026-09-16T15:45:04 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_HomeTest.clickLoginLink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="clickLoginLink()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:04 IST" name="clickLoginLink" finished-at="2026-09-16T15:45:09 IST" duration-ms="4431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginLink -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04]" started-at="2026-09-16T15:45:09 IST" name="browserclose" finished-at="2026-09-16T15:45:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLoginLink status=SUCCESS method=Tricentis_HomeTest.clickLoginLink()[pri:3, instance:com.tricentiswebshop.tests.Tricentis_HomeTest@77f80c04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_HomeTest -->
+      <class name="com.tricentiswebshop.tests.Tricentis_RegisterTest">
+        <test-method is-config="true" signature="baseclass()[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:49 IST" name="baseclass" finished-at="2026-09-16T15:44:55 IST" duration-ms="5238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:55 IST" name="pageSetup" finished-at="2026-09-16T15:44:55 IST" duration-ms="153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_RegisterTest.registerPageTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="registerPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:55 IST" name="registerPageTest" finished-at="2026-09-16T15:44:56 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:56 IST" name="browserclose" finished-at="2026-09-16T15:44:56 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registerPageTest status=SUCCESS method=Tricentis_RegisterTest.registerPageTest()[pri:1, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:56 IST" name="pageSetup" finished-at="2026-09-16T15:44:56 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_RegisterTest.registrationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="registrationTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:44:56 IST" name="registrationTest" finished-at="2026-09-16T15:45:01 IST" duration-ms="5081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:45:01 IST" name="browserclose" finished-at="2026-09-16T15:45:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registrationTest status=SUCCESS method=Tricentis_RegisterTest.registrationTest()[pri:2, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="pageSetup(java.lang.reflect.Method)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:45:01 IST" name="pageSetup" finished-at="2026-09-16T15:45:01 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tricentiswebshop.tests.Tricentis_RegisterTest.logout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetup -->
+        <test-method signature="logout()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:45:01 IST" name="logout" finished-at="2026-09-16T15:45:04 IST" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:45:04 IST" name="browserclose" finished-at="2026-09-16T15:45:04 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logout status=SUCCESS method=Tricentis_RegisterTest.logout()[pri:6, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tricentiswebshop.tests.Tricentis_RegisterTest@ed7f8b4]" started-at="2026-09-16T15:46:17 IST" name="teardown" finished-at="2026-09-16T15:46:17 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tricentiswebshop.tests.Tricentis_RegisterTest -->
+    </test> <!-- Demo Web Shop Tests -->
+  </suite> <!-- Demo Web Shop Suite -->
+</testng-results>
